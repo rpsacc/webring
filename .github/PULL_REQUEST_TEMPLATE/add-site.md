@@ -3,7 +3,7 @@ name: add.site
 about: Submitting a new site to the webring
 title: ''
 labels: ''
-assignees: neauoire, kodedninja, joshavanier, ckipp01
+assignees: yourcontact
 
 ---
 
