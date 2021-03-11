@@ -5,7 +5,7 @@
 ## Join the webring
 
 ```
-<a href='https://webring.rpsa.cc/#random' target='_blank'><img src='https://webring.rpsa.cc/icon.black-2.svg'/></a>
+<a href='https://webring.rpsa.cc/' target='_blank'><img src='https://webring.rpsa.cc/icon.black.svg'/></a>
 ```
 
 1. Add the webring icon to your website html.
@@ -26,7 +26,7 @@ If it's seen that your website is in violation to any of these rules your site w
 Instead of linking to the directory, you can also link to the previous link in the ring by adding parts of your site or domain in the hash of the request url:
 
 ```
-<a href='https://webring.rpsa.cc/#rpsa' target='_blank' rel="noopener noreferrer"><img src='https://webring.rpsa.cc/icon.black-2.svg'/></a>
+<a href='https://webring.rpsa.cc/#rpsa' target='_blank' rel="noopener noreferrer"><img src='https://webring.rpsa.cc/icon.black.svg'/></a>
 ```
 
 ## Help
